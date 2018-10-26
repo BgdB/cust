@@ -1,0 +1,13 @@
+#Docker aliasses 
+alias dp='docker ps'
+alias di='docker inspect'
+
+#Docker compose aliasses
+alias dc='docker-compose'
+alias dcu='docker-compose up -d'
+alias dcd='docker-compose down'
+alias dcp='docker-compose ps'
+
+#Git aliasses
+alias gs='git status'
+alias gcb='~/scripts/gcb.sh'
